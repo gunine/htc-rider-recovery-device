@@ -1,0 +1,6 @@
+This repository contains the device setting files for building the custom recovery from source.
+The supported devices are, now, restricted for hTC rider(Evo 4G+) only.
+8x60-recovery folder contains the necessary files for supporting charging (hTC proprietary...).
+Currently, the ClockWorkMod(CWM) and Team Win Recovery Project(TWRP) have been tested!
+Other custom recoveries also are possiblely built by using this source.
+Test it and let me know. :)

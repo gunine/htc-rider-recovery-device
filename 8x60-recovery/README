@@ -1,0 +1,2 @@
+This was cloned from https://github.com/CyanogenMod/android_device_htc_7x30-recovery, but I changed the htcbatt to the one found in the Sensation CWM builds where offmode charging works. The result is that it's working. :)
+
